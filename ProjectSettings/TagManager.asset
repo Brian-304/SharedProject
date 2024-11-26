@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Buttons
+    uniqueID: 2337863317
+    locked: 0
+  - name: HUD
+    uniqueID: 3834255019
+    locked: 0
