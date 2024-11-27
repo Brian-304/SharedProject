@@ -105,7 +105,7 @@ TextureImporter:
         width: 150
         height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -113,6 +113,111 @@ TextureImporter:
       bones: []
       spriteID: 5fc191654d8c81b43ac7eb5dbdc7efad
       internalID: -842502143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMenuButtons_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 437
+        width: 164
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddba0987f567dfb4ab584b8f95dbad1c
+      internalID: 1923709021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMenuButtons_2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 288
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2283785c08697a74faf19622f12d076f
+      internalID: 1339483686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMenuButtons_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 291
+        width: 182
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29a38febd460ca418c27e8514f65888
+      internalID: -1050611435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMenuButtons_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 78
+        width: 102
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af952ae98875fe346a1c6982541fb7b9
+      internalID: 187300353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMenuButtons_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 77
+        width: 120
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2a881df65ef8048bc980319e6317a0
+      internalID: -1589591760
       vertices: []
       indices: 
       edges: []
@@ -129,6 +234,11 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       GameMenuButtons_0: -842502143
+      GameMenuButtons_1: 1923709021
+      GameMenuButtons_2: 1339483686
+      GameMenuButtons_3: -1050611435
+      GameMenuButtons_4: 187300353
+      GameMenuButtons_5: -1589591760
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
