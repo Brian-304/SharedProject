@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TwistOfFates.unity
     guid: 9a84f0f627cfb4d4e82e07071d4e0d81
+  - enabled: 1
+    path: Assets/Scenes/Scene2.unity
+    guid: c150d604106c5de43be6ca6cb2e85548
   m_configObjects: {}
