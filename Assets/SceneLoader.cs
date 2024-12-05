@@ -24,4 +24,11 @@ public class SceneLoader : MonoBehaviour
         
         SceneManager.LoadScene("Scenes/TwistOfFates");
     }
+
+    public void LoadScene4()
+    {
+        // Only specifying the sceneName or sceneBuildIndex will load the Scene with the Single mode
+
+        SceneManager.LoadScene("Scenes/settings scene");
+    }
 }
